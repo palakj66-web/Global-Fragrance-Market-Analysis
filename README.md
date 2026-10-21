@@ -1,4 +1,5 @@
-# Global-Fragrance-Market-Analysis ![Global Fragrance Market Dashboard](Global%20Fragance%20Market%20Analysis.png)
+# Global-Fragrance-Market-Analysis https://public.tableau.com/views/GlobalFraganceMarketAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![Global Fragrance Market Dashboard](Global%20Fragance%20Market%20Analysis.png)
 Raw catalog data often contains unstructured formatting, delimiter issues, and duplicate listings. The objective of this project was to ingest 20,000+ unstructured perfume records, standardize data dimensions, and design an executive dashboard tracking international production, catalog size, and demographic targeting.
 
 # 🌍 Global Fragrance Market Analysis Dashboard
